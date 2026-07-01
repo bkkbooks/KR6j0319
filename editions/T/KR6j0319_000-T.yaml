@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0319/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 白救度佛母讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1109.xml
+    old_id: T20n1109
+hash: sha256:f23cb0d2b55f0537fd38737ade3d31f2e47bde4f9788fd554f92d9c7c33e6c48

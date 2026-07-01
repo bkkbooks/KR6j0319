@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0319/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0319/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 白救度佛母讚
+  identifiers:
+    krp: KR6j0319
+    cbeta: T20n1109
+    cbeta_old_id: T20n1109
+    authorityid: CA0000129
+    json_key: T1109
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1109.xml
+    old_id: T20n1109
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0319_000-T.yaml, hash: 'sha256:f23cb0d2b55f0537fd38737ade3d31f2e47bde4f9788fd554f92d9c7c33e6c48'}
+  - {seq: 1, filename: KR6j0319_001-T.yaml, hash: 'sha256:d15dc8d9a2c2b4fec4d0ea12e607000425c6731793dcb0f883abb9ec3eb73b36'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0319_000-T.markers.yaml, hash: 'sha256:5d27a0d5488015e07f85aebb3239ce98ec72476db19f8b16c4e86ea6dc33f409'}
+  - {seq: 1, role: markers, filename: assets/KR6j0319_001-T.markers.yaml, hash: 'sha256:35911a9e2a689a977a6a2046b72660c05d802cc4a25bfbea3322aeadbfb8809c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0319_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 452
+  label: 白救度佛母讚
+  type: juan
+  level: 1
+hash: sha256:3e81393552468374737515713f48887a49525ba7ed045229658397c690e16e9e

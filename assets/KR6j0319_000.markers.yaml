@@ -1,0 +1,29 @@
+canonical_identifier: bkk:krp/KR6j0319/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a07, ed: T, 'n': 0484a07}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a08, ed: T, 'n': 0484a08}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a09, ed: T, 'n': 0484a09}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6j0319_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6j0319_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0319_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0319_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0319_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '0', id: KR6j0319_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '9', id: KR6j0319_T_000-bkkpn7}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a10, ed: T, 'n': 0484a10}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a11, ed: T, 'n': 0484a11}
+  - {type: xml-element, offset: 0, content: '', id: pT20p0484a1101, name: p, role: open, attrs: {'xml:id': pT20p0484a1101}}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a12, ed: T, 'n': 0484a12}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a13, ed: T, 'n': 0484a13}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a14, ed: T, 'n': 0484a14}
+  - {type: xml-element, offset: 0, content: '', id: pT20p0484a1101_end, name: p, role: close, attrs: {'xml:id': pT20p0484a1101}}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a15, ed: T, 'n': 0484a15}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a16, ed: T, 'n': 0484a16}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a17, ed: T, 'n': 0484a17}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a18, ed: T, 'n': 0484a18}
+  - {type: line-break, offset: 0, content: '', id: KR6j0319_T_000-0484a19, ed: T, 'n': 0484a19}
+  body: []
+  back: []
+hash: sha256:300e8138aa9f05abc545050d66ba976206c37afdfea3f4b7add201c45dd62113

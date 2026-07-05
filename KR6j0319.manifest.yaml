@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0319_000.yaml, hash: 'sha256:f23cb0d2b55f0537fd38737ade3d31f2e47bde4f9788fd554f92d9c7c33e6c48'}
-  - {seq: 1, filename: KR6j0319_001.yaml, hash: 'sha256:75105f27ae35127c99518b39017801342c05a3dc84d4294ab6588a7ebe23030f'}
+  - {seq: 1, filename: KR6j0319_001.yaml, hash: 'sha256:d15dc8d9a2c2b4fec4d0ea12e607000425c6731793dcb0f883abb9ec3eb73b36'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0319_001.markers.yaml, hash: 'sha256:b14ad6561f18812e4107f1c4015e15b52a83f3018774f245de82b78cd96f557c'}
+  - {seq: 0, role: markers, filename: assets/KR6j0319_000.markers.yaml, hash: 'sha256:300e8138aa9f05abc545050d66ba976206c37afdfea3f4b7add201c45dd62113'}
+  - {seq: 1, role: markers, filename: assets/KR6j0319_001.markers.yaml, hash: 'sha256:7abe3768c2e4a7ccbfb05ffe10b420012876cea04f409c35cc173697fe62a8fe'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 白救度佛母讚
   type: juan
   level: 1
-hash: sha256:dc5e6a2da50bc497ec413751e95be00dd57570ca5d2ab9fd6a4611b1391aa78d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8ae965d13dcbf2df433c70a41ac37ee2a964745d142ad94c6a2d7a4e456118e0

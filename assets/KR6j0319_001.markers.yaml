@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 21, content: '', id: KR6j0319_T_001-0484a23, ed: T, 'n': 0484a23}
   - {type: xml-element, offset: 21, content: '', id: lgT20p0484a2301, name: lg, role: open, attrs: {'xml:id': lgT20p0484a2301, type: regular}}
   - {type: variant, offset: 24, length: 1, content: 輪仁增嘉春寧波祖古仁波切講述《尊者如意寶輪日修儀軌導引》（藏密噶瑪成就林佛學會編輯，佛陀教育基金會印贈，2020）, 大: 輸}
+  - {type: substitution, offset: 25, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20169}}
   - {type: xml-element, offset: 27, content: '', id: KR6j0319_T_001-bkkxmlele3, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 28, content: '', id: KR6j0319_T_001-bkkxmlele4, name: note, role: close, attrs: {place: inline}}
   - {type: punctuation, offset: 30, content: ，, id: KR6j0319_T_001-bkkpn1}
@@ -64,6 +65,7 @@ markers:
   - {type: line-break, offset: 165, content: '', id: KR6j0319_T_001-0484b05, ed: T, 'n': 0484b05}
   - {type: punctuation, offset: 172, content: ，, id: KR6j0319_T_001-bkkpn30}
   - {type: punctuation, offset: 172, content: 。, id: KR6j0319_T_001-bkkpn31}
+  - {type: substitution, offset: 176, original: 佈, replacement: 布, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16240}}
   - {type: punctuation, offset: 179, content: ，, id: KR6j0319_T_001-bkkpn32}
   - {type: line-break, offset: 179, content: '', id: KR6j0319_T_001-0484b06, ed: T, 'n': 0484b06}
   - {type: punctuation, offset: 186, content: ，, id: KR6j0319_T_001-bkkpn33}
@@ -136,6 +138,7 @@ markers:
   - {type: xml-element, offset: 391, content: '', id: KR6j0319_T_001-bkkxmlele18, name: note, role: close, attrs: {place: inline}}
   - {type: line-break, offset: 392, content: '', id: KR6j0319_T_001-0484b21, ed: T, 'n': 0484b21}
   - {type: xml-element, offset: 392, content: '', id: KR6j0319_T_001-bkkxmlele19, name: note, role: open, attrs: {place: inline}}
+  - {type: substitution, offset: 392, original: 吶, replacement: 訥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20421}}
   - {type: xml-element, offset: 393, content: '', id: KR6j0319_T_001-bkkxmlele20, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 394, content: '', id: KR6j0319_T_001-bkkxmlele21, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 398, content: '', id: KR6j0319_T_001-bkkxmlele22, name: note, role: close, attrs: {place: inline}}
@@ -149,8 +152,9 @@ markers:
   - {type: xml-element, offset: 420, content: '', id: pT20p0484b2301, name: p, role: open, attrs: {'xml:id': pT20p0484b2301}}
   - {type: xml-element, offset: 420, content: '', id: KR6j0319_T_001-bkkxmlele27, name: note, role: open, attrs: {place: inline}}
   - {type: punctuation, offset: 438, content: 󰪯, id: KR6j0319_T_001-bkkpn75}
+  - {type: substitution, offset: 441, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: xml-element, offset: 452, content: '', id: KR6j0319_T_001-bkkxmlele28, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 452, content: '', id: pT20p0484b2301_end, name: p, role: close, attrs: {'xml:id': pT20p0484b2301}}
   - {type: line-break, offset: 452, content: '', id: KR6j0319_T_001-0484b24, ed: T, 'n': 0484b24}
   back: []
-hash: sha256:7abe3768c2e4a7ccbfb05ffe10b420012876cea04f409c35cc173697fe62a8fe
+hash: sha256:c0e79584ccbd2ba139093effcb8f247d9cd0aba732fa0b88f00c3d903c2a558d

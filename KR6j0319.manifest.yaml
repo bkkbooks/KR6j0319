@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0319/v1
 canonical_location: https://kanripo.org/bkk/KR6j0319/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 白救度佛母讚
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0319_000.yaml, hash: 'sha256:f23cb0d2b55f0537fd38737ade3d31f2e47bde4f9788fd554f92d9c7c33e6c48'}
-  - {seq: 1, filename: KR6j0319_001.yaml, hash: 'sha256:d15dc8d9a2c2b4fec4d0ea12e607000425c6731793dcb0f883abb9ec3eb73b36'}
+  - {seq: 1, filename: KR6j0319_001.yaml, hash: 'sha256:f1e53ee14e86a764dc7dc4472e9106e58c64ac452d2c7a1a12c48587973a39c5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0319_000.markers.yaml, hash: 'sha256:300e8138aa9f05abc545050d66ba976206c37afdfea3f4b7add201c45dd62113'}
-  - {seq: 1, role: markers, filename: assets/KR6j0319_001.markers.yaml, hash: 'sha256:7abe3768c2e4a7ccbfb05ffe10b420012876cea04f409c35cc173697fe62a8fe'}
+  - {seq: 1, role: markers, filename: assets/KR6j0319_001.markers.yaml, hash: 'sha256:c0e79584ccbd2ba139093effcb8f247d9cd0aba732fa0b88f00c3d903c2a558d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 白救度佛母讚
   type: juan
   level: 1
-hash: sha256:8ae965d13dcbf2df433c70a41ac37ee2a964745d142ad94c6a2d7a4e456118e0
+hash: sha256:e06ad0696faccfcb95e2a4923fb176dd3c185dfeace98fe7cea01de8db220ba4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
